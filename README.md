@@ -17,5 +17,6 @@ This project was developed by me as hobby one by request of one RC Helicopter pi
 - [Facebook](https://www.facebook.com/mike.petrichenko)
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
+- [Threads](https://www.threads.com/@drone_tales)
 - [Telegram](https://t.me/drone_tales)
 - [TikTok](http://tiktok.com/@drone_tales)
