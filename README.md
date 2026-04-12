@@ -4,8 +4,8 @@
 
 Здесь вы найдете:
 
-- Разработанные мной **бесплатные** и **зоббийные** приложения.
-- Мои проекты для моего [YouTube](https://www.youtube.com/@drone_tales) канала
+- Разработанные мной **бесплатные** и **хоббийные** приложения.
+- Проекты моего [YouTube](https://www.youtube.com/@drone_tales) канала
 
 ### Spektrum Telemetry Log File Viewer
 
@@ -14,11 +14,11 @@
 
 ### Мои социальные сети
 
-- [Facebook](https://www.facebook.com/mike.petrichenko)
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
-- [Telegram](https://t.me/drone_tales)
 - [TikTok](http://tiktok.com/@drone_tales)
+- [Telegram](https://t.me/drone_tales)
+- [Facebook](https://www.facebook.com/mike.petrichenko)
 
 ### Поддержать автора
 
