@@ -1,18 +1,18 @@
-## Добро пожаловать в репозиторий Drone Tales
+# Welcome to the Drone Tales repository
 
-### Об этом репозитории
+## What it all about
 
-Здесь вы найдете:
+Here you will find:
 
-- Разработанные мной **бесплатные** и **хоббийные** приложения.
-- Проекты моего [YouTube](https://www.youtube.com/@drone_tales) канала
+- My **free** applications.
+- My **free** firmware and schematic for Apple Home devices.
+- My projects for my [YouTube](https://www.youtube.com/@drone_tales) channel.
 
-### Spektrum Telemetry Log File Viewer
+## Spektrum Telemetry Log File Viewer
 
-Этот проект был разработан как хоббийный по запросу одного из пилота RC вертолета. Это бесплатный проект.
-[Узнать больше...](https://www.tlmviewer.com)
+This project was developed for one RC copter pilot. This is absolutely free project cab be found [here](https://www.tlmviewer.com).
 
-### Мои социальные сети
+## My social networks
 
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
@@ -20,11 +20,13 @@
 - [Telegram](https://t.me/drone_tales)
 - [Facebook](https://www.facebook.com/mike.petrichenko)
 
-### Поддержать автора
+## Support the author
+
+If you like what I am doing you can support me using one of the link below:
 
 **BuyMeACoffee**: https://buymeacoffee.com/dronetales  
 **Boosty**: https://boosty.to/drone_tales/donate  
-
+  
 **BTC**: bitcoin:1A1WM3CJzdyEB1P9SzTbkzx38duJD6kau  
 **BCH**: bitcoincash:qre7s8cnkwx24xpzvvfmqzx6ex0ysmq5vuah42q6yz  
-**ETH**: 0xf780b3B7DbE2FC74b5F156cBBE51F67eDeAd8F9a
+**ETH**: 0xf780b3B7DbE2FC74b5F156cBBE51F67eDeAd8F9a  
