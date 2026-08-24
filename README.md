@@ -1,29 +1,21 @@
-# Welcome to the Drone Tales repository
+# Добро пожаловать в репозиторий Drone Tales
 
-## What it all about
+## О чем это?
 
-Here you will find:
+Здесь вы найдете:
 
-- My **free** applications.
-- My **free** firmware and schematic for Apple Home devices.
-- My projects for my [YouTube](https://www.youtube.com/@drone_tales) channel.
+- Мои **бесплатные** приложения.
+- Мои **бесплатные** прошивки и схемы устройств для Apple Home.
+- Проеты для моего [YouTube](https://www.youtube.com/@drone_tales) канала.
 
 ## Spektrum Telemetry Log File Viewer
 
-This project was developed for one RC copter pilot. This is absolutely free project cab be found [here](https://www.tlmviewer.com).
+Эта программа была написана по просьбе одного пилота радиоуправляемого вертолета. Эту **совершенно бесплатную** программу вы найдете не [сайте](https://www.tlmviewer.com).
 
-## My social networks
+## Мои социальные сети
 
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
 - [TikTok](http://tiktok.com/@drone_tales)
 - [Telegram](https://t.me/drone_tales)
 - [Facebook](https://www.facebook.com/mike.petrichenko)
-
-## Support the author
-
-If you like what I am doing you can support me using one of the link below:
-
-**BuyMeACoffee**: https://buymeacoffee.com/dronetales  
-**Boosty**: https://boosty.to/drone_tales/donate  
-**PayPal**: mike@btframework.com  
